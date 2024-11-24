@@ -23,5 +23,5 @@ My contacts:
 
 | Project name | Description | Presented in the project |
 |----------------|-----------------|-----------------|
-|[Recommendation-system-social-network]| The project currently provides a social media post recommendation system. <br> Inside the repository there is a diagram of the project| EDA, Data Preprocessing, Feature Engineering (Juputer Notebooks), PostgreSQL, LogReg, Catboost, FastAPI, Test Postman |
-|[KickStarter]| Predicting the success of a crowdfunding platform| EDA, Data Preprocessing, Feature Engineering, LogReg, Catboost, GridSearchCV <br/>Comparison of several models <br> |
+|[Recommendation-system-social-network](https://github.com/SergeyGermanovichML/Recommendation-system-social-network.git)| The project currently provides a social media post recommendation system. <br> Inside the repository there is a diagram of the project| EDA, Data Preprocessing, Feature Engineering (Juputer Notebooks), PostgreSQL, LogReg, Catboost, FastAPI, Test Postman |
+|[KickStarter](https://github.com/SergeyGermanovichML/ML-projects.git)| Predicting the success of a crowdfunding platform| EDA, Data Preprocessing, Feature Engineering, LogReg, Catboost, GridSearchCV <br/>Comparison of several models <br> |
