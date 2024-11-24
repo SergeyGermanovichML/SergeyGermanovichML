@@ -1,7 +1,7 @@
 <h1 align="center"> Hello! I'm Sergey Germanovich <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 <img align="right" src="https://media.giphy.com/media/SpopD7IQN2gK3qN4jS/giphy.gif" width="400">
 
-### I'm a Machine Learning engineer
+### I'm a Machine Learning student!
 *I am studying Data Science(Machine Learning), trying to change my current profession.* 
 *<br/>This area has been incredibly inspiring to me.*
 
